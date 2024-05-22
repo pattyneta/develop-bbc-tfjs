@@ -10,8 +10,8 @@ Follow these steps:
 
 **You can find more information about TensorFlow.js here:**
 
-TensorFlow.js website: [tensorflow.org/js](tensorflow.org/js)
+TensorFlow.js website: [tensorflow.org/js](https://tensorflow.org/js)
 
-More pre-made ML models: [tensorflow.org/js/models](tensorflow.org/js/models)
+More pre-made ML models: [tensorflow.org/js/models](https://tensorflow.org/js/models)
 
-Watch TensorFlow.js playlist on YouTube: [goo.gle/made-with-tfjs](​goo.gle/made-with-tfjs​)
+Watch [TensorFlow.js playlist on YouTube](https://www.youtube.com/watch?v=8owx9wqLmI0&list=PLQY2H8rRoyvzSZZuF0qJpoJxZR1NgzcZw)
